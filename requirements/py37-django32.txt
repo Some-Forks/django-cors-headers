@@ -70,9 +70,9 @@ coverage==5.5 \
     --hash=sha256:f0b278ce10936db1a37e6954e15a3730bea96a0997c26d7fee88e6c396c2086d \
     --hash=sha256:f11642dddbb0253cc8853254301b51390ba0081750a8ac03f20ea8103f0c56b6
     # via -r requirements.in
-django==3.2 \
-    --hash=sha256:0604e84c4fb698a5e53e5857b5aea945b2f19a18f25f10b8748dbdf935788927 \
-    --hash=sha256:21f0f9643722675976004eb683c55d33c05486f94506672df3d6a141546f389d
+django==3.1.14 \
+    --hash=sha256:0fabc786489af16ad87a8c170ba9d42bfd23f7b699bd5ef05675864e8d012859 \
+    --hash=sha256:72a4a5a136a214c39cf016ccdd6b69e2aa08c7479c66d93f3a9b5e4bb9d8a347
     # via -r requirements.in
 importlib-metadata==3.10.0 \
     --hash=sha256:c9db46394197244adf2f0b08ec5bc3cf16757e9590b02af1fca085c16c0d600a \
